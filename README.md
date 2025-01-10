@@ -136,11 +136,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 **Author**
 
-**Kombee Technologies**
 
-- 🌐 [Portfolio](https://github.com/kombee-technologies)
-- 💼 [LinkedIn](https://in.linkedin.com/company/kombee-global)
-- 🌍 [Website](https://www.kombee.com/)
+**Dishant Mehta**
+
+- 🌐 [Portfolio](https://github.com/DishantKombee)
 
 ---
 
